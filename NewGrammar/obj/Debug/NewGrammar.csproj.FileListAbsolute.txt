@@ -1,0 +1,9 @@
+E:\WorkSpace\Study\Chapter01\NewGrammar\NewGrammar\bin\Debug\NewGrammar.exe.config
+E:\WorkSpace\Study\Chapter01\NewGrammar\NewGrammar\bin\Debug\NewGrammar.exe
+E:\WorkSpace\Study\Chapter01\NewGrammar\NewGrammar\bin\Debug\NewGrammar.pdb
+E:\WorkSpace\Study\Chapter01\NewGrammar\NewGrammar\obj\Debug\NewGrammar.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Study\Chapter01\NewGrammar\NewGrammar\obj\Debug\NewGrammar.exe
+E:\WorkSpace\Study\Chapter01\NewGrammar\NewGrammar\obj\Debug\NewGrammar.pdb
+D:\Study\Chapter01\NewGrammar\NewGrammar\bin\Debug\NewGrammar.exe.config
+D:\Study\Chapter01\NewGrammar\NewGrammar\obj\Debug\NewGrammar.exe
+D:\Study\Chapter01\NewGrammar\NewGrammar\obj\Debug\NewGrammar.pdb
